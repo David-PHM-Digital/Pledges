@@ -1,6 +1,6 @@
 # PHM Digital Pledges
 
-Welcome to the PHM Digital Pledges repository. Here, we share our commitments to Diversity, Equity, and Inclusion (DEI), Environmental Sustainability, and Social Impact. These pledges reflect our ongoing dedication to responsible and positive action in the digital sector.
+Welcome to the PHM Digital Pledges repository. Here, we share our commitments to Diversity, Equity, and Inclusion (DEI), Environmental Sustainability, Social Impact, Work-Life Balance, and Career Growth & Learning. These pledges reflect our ongoing dedication to responsible and positive action in the digital sector.
 
 ## Our Commitments
 
@@ -12,6 +12,12 @@ Welcome to the PHM Digital Pledges repository. Here, we share our commitments to
 
 - [PHM-Digital-Social-Impact-Commitment.pdf](./PHM-Digital-Social-Impact-Commitment.pdf)  
   Our statement of intent to make a positive Social Impact in the communities we serve.
+
+- [Work-Life-Balance.pdf](./Work-Life-Balance.pdf)  
+  Our pledge to promote Work-Life Balance for all team members.
+
+- [Career-Growth-Learning.pdf](./Career-Growth-Learning.pdf)  
+  Our commitment to fostering continuous Career Growth and Learning.
 
 ---
 
